@@ -1,0 +1,4 @@
+Problem Set + DataSet - https://datahack.analyticsvidhya.com/contest/practice-problem-recommendation-engine/
+A to Z course link - https://www.udemy.com/machinelearning/learn/v4/overview
+
+Download Anaconda 4.1.1 Python 3.5 - https://repo.continuum.io/archive/.winzip/
